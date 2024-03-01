@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m @nayabCode</h1>
+- <h1>👋 Hello World, I’m Mahwish! </h1>
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning!
 
