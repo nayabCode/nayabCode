@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nayabCode
+- <h1>👋 Hi, I’m @nayabCode</h1>
 - 👀 I’m interested in webdeveloper
 - 🌱 I’m currently learning!
 
