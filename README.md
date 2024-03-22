@@ -1,4 +1,4 @@
-- <h1>👋 Hello World, I’m Mahwish! </h1>
+- <h1>👋 Hello World, This is Mahwish! </h1>
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning!
 
